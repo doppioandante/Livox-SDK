@@ -1,0 +1,3 @@
+[submodule "sdk_core/include/third_party/spdlog"]
+	path = sdk_core/include/third_party/spdlog
+	url = https://github.com/gabime/spdlog.git
